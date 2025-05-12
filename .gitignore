@@ -1,0 +1,6 @@
+# Arduino and build artifacts
+**/build/
+**/*.bin
+**/*.elf
+**/*.hex
+.cache/
